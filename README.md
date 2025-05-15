@@ -77,7 +77,7 @@ The **Power BI dashboard** visualizes:
 📌 **Peak ride hours** 🕒  
 📌 **Customer booking patterns** 🗺️  
 
-![Screenshot 2025-02-20 114246](https://github.com/user-attachments/assets/570d36eb-4b3b-464c-8fe9-f6e335f0749a)
+![Screenshot 2025-02-20 114246](https://github.com/sachinrawat25/Ola-Data-Analytics-Dashboard/blob/main/Screenshot%202025-05-15%20231228.png)
 
 ![Screenshot 2025-02-20 114259](https://github.com/user-attachments/assets/b1c09e39-dae0-4eec-8afe-f8d8fcd18ecf)
 
