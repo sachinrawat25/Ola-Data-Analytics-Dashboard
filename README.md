@@ -94,7 +94,7 @@ The **Power BI dashboard** visualizes:
 ## 🚀 How to Use  
 1️⃣ Clone the repository:  
 ```bash
-git clone https://github.com/yourusername/Ola-Ride-Data-Analysis.git
+git clone https://github.com/sachinrawat25/Ola-Data-Analytics-Dashboard.git
 ```
 2️⃣ Open **SQL files** in MySQL Workbench and run queries.  
 3️⃣ Use **cleaned_data.xlsx** for Excel-based analysis.  
