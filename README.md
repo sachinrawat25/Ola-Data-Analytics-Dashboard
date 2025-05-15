@@ -79,7 +79,7 @@ The **Power BI dashboard** visualizes:
 
 ### 🔹 **1️⃣ Overall View**
 
-![Slide 1 - Overall](Slide1.png)
+![Slide 1 - Overall](Slide1)
 
 ---
 
