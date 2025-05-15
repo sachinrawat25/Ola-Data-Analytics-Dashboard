@@ -79,13 +79,13 @@ The **Power BI dashboard** visualizes:
 
 ![Screenshot 2025-02-20 114246](https://github.com/sachinrawat25/Ola-Data-Analytics-Dashboard/blob/main/Screenshot%202025-05-15%20231228.png)
 
-![Screenshot 2025-02-20 114259](https://github.com/user-attachments/assets/b1c09e39-dae0-4eec-8afe-f8d8fcd18ecf)
+![Screenshot 2025-02-20 114259](https://github.com/sachinrawat25/Ola-Data-Analytics-Dashboard/blob/main/Screenshot%202025-05-15%20231304.png)
 
-![Screenshot 2025-02-20 114311](https://github.com/user-attachments/assets/85fa6137-0a9e-4a80-b2a5-b0d777288830)
+![Screenshot 2025-02-20 114311](https://github.com/sachinrawat25/Ola-Data-Analytics-Dashboard/blob/main/Screenshot%202025-05-15%20231320.png)
 
-![Screenshot 2025-02-20 114321](https://github.com/user-attachments/assets/2c3634fd-31a7-430e-b3e6-eff6d4393251)
+![Screenshot 2025-02-20 114321](https://github.com/sachinrawat25/Ola-Data-Analytics-Dashboard/blob/main/Screenshot%202025-05-15%20231356.png)
 
-![Screenshot 2025-02-20 114341](https://github.com/user-attachments/assets/9b9fc6bb-b8d6-4a08-b875-33a817b6efdb)
+![Screenshot 2025-02-20 114341](https://github.com/sachinrawat25/Ola-Data-Analytics-Dashboard/blob/main/Screenshot%202025-05-15%20231416.png)
 
 
 
