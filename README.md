@@ -77,19 +77,35 @@ The **Power BI dashboard** visualizes:
 📌 **Peak ride hours** 🕒  
 📌 **Customer booking patterns** 🗺️  
 
-![Screenshot 2025-02-20 114246](https://github.com/sachinrawat25/Ola-Data-Analytics-Dashboard/blob/main/Screenshot%202025-05-15%20231228.png)
+### 🔹 **1️⃣ Overall View**
 
-![Screenshot 2025-02-20 114259](https://github.com/sachinrawat25/Ola-Data-Analytics-Dashboard/blob/main/Screenshot%202025-05-15%20231304.png)
-
-![Screenshot 2025-02-20 114311](https://github.com/sachinrawat25/Ola-Data-Analytics-Dashboard/blob/main/Screenshot%202025-05-15%20231320.png)
-
-![Screenshot 2025-02-20 114321](https://github.com/sachinrawat25/Ola-Data-Analytics-Dashboard/blob/main/Screenshot%202025-05-15%20231356.png)
-
-![Screenshot 2025-02-20 114341](https://github.com/sachinrawat25/Ola-Data-Analytics-Dashboard/blob/main/Screenshot%202025-05-15%20231416.png)
-
-
+![Slide 1 - Overall](Slide%201.png)
 
 ---
+
+### 🔹 **2️⃣ Vehicle Type Distribution**
+
+![Slide 2 - Vehicle Type](Slide%202.png)
+
+---
+
+### 🔹 **3️⃣ Revenue by Payment Method**
+
+![Slide 3 - Revenue by Payment Method](Slide%203.png)
+
+---
+
+### 🔹 **4️⃣ Cancellation Overview**
+
+![Slide 4 - Cancellation](Slide%204.png)
+
+---
+
+### 🔹 **5️⃣ Customer Ratings**
+
+![Slide 5 - Ratings](Slide%205.png)
+
+------
 
 ## 🚀 How to Use  
 1️⃣ Clone the repository:  
